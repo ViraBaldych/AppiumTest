@@ -7,7 +7,7 @@ import org.openqa.selenium.remote.DesiredCapabilities;
 import java.net.MalformedURLException;
 import java.net.URL;
 
-public class Main {
+public class Calculator {
     static AppiumDriver driver;
 
     public static void main(String[] args) throws MalformedURLException {
