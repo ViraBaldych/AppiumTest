@@ -1,7 +1,7 @@
 package org.example;
 
 import io.appium.java_client.AppiumDriver;
-import org.openqa.selenium.WebElement;
+
 import org.openqa.selenium.remote.DesiredCapabilities;
 
 import java.net.MalformedURLException;
